@@ -1,0 +1,9 @@
+# paper name
+Generalized Focal Loss: Learning Qualified and Distributed Bounding Boxes for Dense Object Detection
+https://arxiv.org/abs/2006.04388
+# github
+https://github.com/implus/GFocal
+# arch
+https://github.com/eeric/nanodet/blob/43a8a89005aa44fee9b338e607f7485a650023f4/nanodet/model/arch/gfl.py#L4
+# inference
+https://github.com/eeric/nanodet/blob/main/nanodet/model/loss/gfocal_loss.py
