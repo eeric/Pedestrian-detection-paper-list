@@ -1,5 +1,12 @@
 Path Aggregation Network for Instance Segmentation
 
+# note
 https://blog.csdn.net/u010158659/article/details/79530125
 
 https://blog.csdn.net/u011974639/article/details/79595179
+
+# model file
+https://github.com/eeric/nanodet/blob/main/nanodet/model/fpn/pan.py
+
+# paper
+https://arxiv.org/pdf/1803.01534.pdf
