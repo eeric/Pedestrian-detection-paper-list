@@ -6,3 +6,4 @@
 ### Model design
 ### Loss
 ### training method
+### data augmentation means
