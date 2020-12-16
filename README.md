@@ -1,5 +1,7 @@
 # Pedestrian-detection-paper-list
-### mark useful paper
+### Mark useful paper
 ### Notes on deep learning papers
-### open code
-### addtional content
+### Open code
+### Addtional content
+### Model design
+### Loss
