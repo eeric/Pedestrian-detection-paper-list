@@ -5,7 +5,7 @@
 #### Addtional content
 #### Model design
 #### Loss
-### training method
-### data augmentation means
-### Model optimization
-### Model compression
+#### training method
+#### data augmentation means
+#### Model optimization
+#### Model compression
