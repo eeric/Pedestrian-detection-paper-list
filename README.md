@@ -5,3 +5,4 @@
 ### Addtional content
 ### Model design
 ### Loss
+### training method
