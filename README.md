@@ -7,3 +7,5 @@
 ### Loss
 ### training method
 ### data augmentation means
+### Model optimization
+### Model compression
