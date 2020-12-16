@@ -2,9 +2,9 @@
 #### Mark useful paper
 #### Notes on deep learning papers
 #### Open code
-### Addtional content
-### Model design
-### Loss
+#### Addtional content
+#### Model design
+#### Loss
 ### training method
 ### data augmentation means
 ### Model optimization
