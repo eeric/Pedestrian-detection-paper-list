@@ -1,13 +1,13 @@
 # FCOS 1: Fully Convolutional One-Stage Object Detection
 https://arxiv.org/abs/1904.01355
-FCOS 2:A Simple and Strong Anchor-free Object Detector
+# FCOS 2:A Simple and Strong Anchor-free Object Detector
 https://arxiv.org/abs/2006.09214
-# FCOS2 official github
-https://github.com/aim-uofa/AdelaiDet
 # FCOS1 official github
 https://github.com/tianzhi0549/FCOS (pytorch)
 or 
 tinyurl.com/FCOSv1
+# FCOS2 official github
+https://github.com/aim-uofa/AdelaiDet
 # note
 https://blog.csdn.net/fanzonghao/article/details/109487496 #FCOS2
 https://blog.csdn.net/Chunfengyanyulove/article/details/95091061 #FCOS1
