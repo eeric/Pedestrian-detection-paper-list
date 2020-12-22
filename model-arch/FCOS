@@ -17,5 +17,5 @@ FCOS1<--FCNs method
 FPN+centerness-->FCOS1 arch
 # FCOS1 arch
 ### FPN(multi-level): handling overlapping bounding boxes.
-### centerness: predict the deviation of a pixel to the center of its corresponding bounding box , that down-weight low-quality detected bounding boxes
+### centerness: predict the deviation of a pixel to the center of its corresponding bounding box, and down-weight low-quality detected bounding boxes
 and merge the detection results in NMS.
