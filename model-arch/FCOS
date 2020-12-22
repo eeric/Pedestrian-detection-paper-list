@@ -14,3 +14,4 @@ https://blog.csdn.net/Chunfengyanyulove/article/details/95091061 #FCOS1
 https://www.cnblogs.com/fourmi/p/10771436.html #FCOS1
 # mark
 FCOS1<--FCNs method
+FPN+centerness-->FCOS1 arch
