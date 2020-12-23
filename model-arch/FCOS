@@ -24,5 +24,4 @@ and merge the detection results in NMS.
 ### add: 
 1.sub box on ground-truth bbox to supervise location (x,y) regression;
 2.exp(x)-->ReLU(x);
-3.s: the total stride, that scale down regression targets and prevents the
-gradients from exploding during training.
+3.s: the total stride, that scale down regression targets and prevents the gradients from exploding during training.
