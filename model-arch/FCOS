@@ -20,5 +20,5 @@ FPN+centerness-->FCOS1 arch
 ### centerness: predict the deviation of a pixel to the center of its corresponding bounding box, and down-weight low-quality detected bounding boxes
 and merge the detection results in NMS.
 # FCOS2 arch
-### like most parts of FCOS1, add sub box to supervise location (x,y) regression, exp(x)-->ReLU(x), and s: the total stride that scale down regression targets and prevents the
+### like most parts of FCOS1, add sub box on ground-truth bbox to supervise location (x,y) regression, exp(x)-->ReLU(x), and s: the total stride that scale down regression targets and prevents the
 gradients from exploding during training.
