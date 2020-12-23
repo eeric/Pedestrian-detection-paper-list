@@ -26,4 +26,4 @@ and merge the detection results in NMS.
 2.exp(x)-->ReLU(x);
 3.s: the total stride, that scale down regression targets and prevents the gradients from exploding during training;
 4.IoU loss-->GIoU loss;
-5.score = pscore * cn --> sqrt(score), pscore is classification score, cn is the predicted center-ness
+5.final score = pscore * cn --> sqrt(score), pscore is classification score, cn is the predicted center-ness float;
