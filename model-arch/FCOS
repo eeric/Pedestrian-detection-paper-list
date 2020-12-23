@@ -17,8 +17,8 @@ FCOS1<--FCNs method
 FPN+centerness-->FCOS1 arch
 # FCOS1 arch
 ### FPN(multi-level): handling overlapping bounding boxes.
-### centerness: predict the deviation of a pixel to the center of its corresponding bounding box, and down-weight low-quality detected bounding boxes
-and merge the detection results in NMS.
+### centerness: predict the deviation of a pixel to the center of its corresponding bounding box, and down-weight 
+low-quality detected bounding boxes and merge the detection results in NMS.
 # FCOS2 arch
 ### like most parts of FCOS1, 
 ### add: 
@@ -26,5 +26,5 @@ and merge the detection results in NMS.
 2.exp(x)-->ReLU(x);
 3.s: the total stride, that scale down regression targets and prevents the gradients from exploding during training;
 4.IoU loss-->GIoU loss;
-5.final score = pscore * cn --> sqrt(score), pscore is classification score, cn is the predicted center-ness float.
+5.final score = pscore * cn --> sqrt(score), pscore is classification score, cn is the predicted center-ness float;
 6.real-time detection edition.
