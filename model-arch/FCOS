@@ -33,5 +33,7 @@ low-quality detected bounding boxes and merge the detection results in NMS.
 used Deep Layer Aggregation(DLA) pre-trained model.
 https://arxiv.org/pdf/1707.06484.pdf
 https://github.com/ucbdrive/dla
+#DLA34
+
 
 
