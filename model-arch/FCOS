@@ -34,6 +34,6 @@ used Deep Layer Aggregation(DLA) pre-trained model.
 https://arxiv.org/pdf/1707.06484.pdf
 https://github.com/ucbdrive/dla
 #DLA34
-
+WEIGHTS: "http://dl.yf.io/dla/models/imagenet/dla34-ba72cf86.pth"
 
 
