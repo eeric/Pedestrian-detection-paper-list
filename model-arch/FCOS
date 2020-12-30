@@ -29,3 +29,6 @@ low-quality detected bounding boxes and merge the detection results in NMS.
 4.IoU loss-->GIoU loss;
 5.final score = pscore * cn --> sqrt(score), pscore is classification score, cn is the predicted center-ness float;
 6.real-time detection edition.
+# FCOS2-RT
+used Deep Layer Aggregation(DLA) pre-trained model.
+
