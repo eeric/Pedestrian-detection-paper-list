@@ -1,4 +1,5 @@
 #Config File example, model size 1.64M
+#The shape of the head changes little
 save_dir: workspace/nanodet_head_simple_320
 model:
   arch:
