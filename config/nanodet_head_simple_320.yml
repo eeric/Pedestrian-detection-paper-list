@@ -1,5 +1,5 @@
 #Config File example, model size 1.64M
-#The shape of the head changes little
+#The shape of the head changes little, detection and tracking stability.
 save_dir: workspace/nanodet_head_simple_320
 model:
   arch:
