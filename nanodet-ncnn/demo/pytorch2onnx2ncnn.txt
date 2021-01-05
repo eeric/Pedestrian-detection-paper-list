@@ -1,0 +1,2 @@
+# tutorial introduces
+https://github.com/Tencent/ncnn/wiki/use-ncnn-with-pytorch-or-onnx
