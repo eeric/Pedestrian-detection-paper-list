@@ -36,6 +36,12 @@ cd build
 cmake ..
 msbuild nanodet_demo.vcxproj /p:configuration=release /p:platform=x64
 ```
+# note
+### build library:protobuf-3.4.0, ncnn
+https://www.yht7.com/news/31922 (release)
+### run demo
+https://blog.csdn.net/u011622208/article/details/105169652/ (release)
+
 
 # Run demo
 
