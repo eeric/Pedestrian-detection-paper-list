@@ -1,3 +1,5 @@
 # tutorial introduces
 ## a practical guide for converting pytorch model to ncnn
 https://github.com/Tencent/ncnn/wiki/use-ncnn-with-pytorch-or-onnx
+## nanodet model: pytorch --> onnx, example
+https://github.com/RangiLyu/nanodet/blob/325571d27f25fc8f552bc2c639693b1f89620612/demo/demo.py#L26
