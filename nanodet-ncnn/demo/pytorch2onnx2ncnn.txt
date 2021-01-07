@@ -1,9 +1,9 @@
 # tutorial introduces
-## a practical guide for converting pytorch model to ncnn
+## 1. a practical guide for converting pytorch model to ncnn
 https://github.com/Tencent/ncnn/wiki/use-ncnn-with-pytorch-or-onnx
 ### removing many redundant operators such as Shape, Gather and Unsqueeze
 https://github.com/daquexian/onnx-simplifier
 that is: pip3 install onnx-simplifier
 script：python3 -m onnxsim input_onnx_model output_onnx_model
-## nanodet model: pytorch --> onnx, example
-https://github.com/RangiLyu/nanodet/blob/325571d27f25fc8f552bc2c639693b1f89620612/demo/demo.py#L26
+## 2. nanodet model: pytorch --> onnx, example
+https://github.com/RangiLyu/nanodet/blob/main/tools/export.py
