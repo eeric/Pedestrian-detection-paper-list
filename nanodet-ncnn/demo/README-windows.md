@@ -41,7 +41,9 @@ msbuild nanodet_demo.vcxproj /p:configuration=release /p:platform=x64
 https://www.yht7.com/news/31922 (release)
 ### run demo
 https://blog.csdn.net/u011622208/article/details/105169652/ (release)
-### Visual Studio
+### Enterprise version
+Visual Studio could be the Enterprise version
+The point was x64 Native Tools Command Prompt
 
 
 # Run demo
