@@ -9,4 +9,6 @@ https://github.com/daquexian/onnx-simplifier
 that is: pip3 install onnx-simplifier
 script：python3 -m onnxsim input_onnx_model output_onnx_model
 ## 3.build onnx2ncnn.exe
+install ncnn
+https://github.com/Tencent/ncnn/wiki/how-to-build#build-for-windows-x64-using-visual-studio-community-2017
 script：onnx2ncnn resnet18-sim.onnx resnet18.param resnet18.bin
