@@ -5,4 +5,5 @@ https://arxiv.org/pdf/1912.02424.pdf
 https://github.com/sfzhang15/ATSS
 # example
 https://github.com/RangiLyu/nanodet/blob/main/nanodet/model/head/gfl_head.py
-
+# function
+https://github.com/RangiLyu/nanodet/blob/main/nanodet/model/head/assigner/atss_assigner.py
