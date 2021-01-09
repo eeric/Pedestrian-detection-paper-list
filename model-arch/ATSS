@@ -11,4 +11,4 @@ https://github.com/RangiLyu/nanodet/blob/main/nanodet/model/head/assigner/atss_a
 1.difference between anchor-based and anchor-free detectors is actually how to define
 positive and negative training samples
 2.automatically select positive and negative training samples according to statistical characteristics of object
-3.
+3.not need to tile multiple anchors per location on the image to detect objects, that is just the right quantity
