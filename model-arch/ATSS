@@ -7,3 +7,8 @@ https://github.com/sfzhang15/ATSS
 https://github.com/RangiLyu/nanodet/blob/main/nanodet/model/head/gfl_head.py
 # function
 https://github.com/RangiLyu/nanodet/blob/main/nanodet/model/head/assigner/atss_assigner.py
+# main contributions
+1.difference between anchor-based and anchor-free detectors is actually how to define
+positive and negative training samples
+2.automatically select positive and negative training samples according to statistical characteristics of object
+3.
