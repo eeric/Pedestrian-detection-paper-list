@@ -7,4 +7,11 @@ https://github.com/open-mmlab/mmdetection
 https://zhuanlan.zhihu.com/p/339126633
 https://mp.weixin.qq.com/s/Ywzbn2_QqYd1W8dv8cxupw
 # paper content
-
+dynamically
+re-balance gradients of positive and negative samples
+for each category, with two complementary factors, i.e., mitigation
+factor and compensation factor. The mitigation factor
+reduces punishments to tail categories w.r.t. the ratio of
+cumulative training instances between different categories.
+Meanwhile, the compensation factor increases the penalty
+of misclassified instances to avoid false positives of tail categories
