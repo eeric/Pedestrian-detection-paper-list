@@ -1,3 +1,4 @@
 #note
 1.they was need to modified to torch.split(),torch.chunk().
 2.5D tensor was not convert: eg.x = x.view(batchsize, groups,channels_per_group, height, width)
+3.it was not convert to F.interpolate()
