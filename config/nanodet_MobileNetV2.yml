@@ -1,0 +1,19 @@
+save_dir: workspace/nanodet_MobileNetV2
+model:
+  arch:
+    name: GFL
+    backbone:
+      name: MobileNetV2
+      width_mult: 1.0
+      out_stages: [1, 2, 4]
+    fpn:
+      name: PAN
+      in_channels: [24, 32, 96]
+      out_channels: 96
+      start_level: 0
+      num_outs: 3
+    head:
+      name: NanoDetHead
+......
+
+note: out_stages was only set 3D, its value could be varied, in_channels was also need to vary.
