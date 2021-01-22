@@ -10,5 +10,6 @@
 #### Model optimization
 #### Model compression
 #### Pedestrian trail
+#### head detection
 # note
 https://www.zhihu.com/people/mmeng-xin-80 #detection
