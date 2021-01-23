@@ -83,3 +83,10 @@ class CustomCspNet(nn.Module):
             elif isinstance(m, nn.BatchNorm2d):
                 m.weight.data.fill_(1)
                 m.bias.data.zero_()
+if __name__ == "__main__":
+    model = CustomCspNet(model_name='efficientnet_lite0', )
+    print(model)
+    test_data = torch.rand(5, 3, 320, 320)
+    test_outputs = model(test_data)
+    for out in test_outputs:
+        print(out.size())
