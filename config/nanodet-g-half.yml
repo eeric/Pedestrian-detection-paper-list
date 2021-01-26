@@ -1,4 +1,4 @@
-# Halve the number of channels 
+# Halve the number of channels for backbone
 save_dir: workspace/nanodet_g_manual_head_half
 model:
   arch:
