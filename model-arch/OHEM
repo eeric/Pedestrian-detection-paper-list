@@ -1,1 +1,7 @@
-OHEM：Online Hard Example Ming
+#OHEM
+Online Hard Example Ming
+#paper
+Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks
+http://arxiv.org/abs/1604.02878
+#code
+https://github.com/TropComplique/mtcnn-pytorch
