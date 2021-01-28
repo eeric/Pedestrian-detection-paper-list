@@ -9,6 +9,6 @@
 #### Model optimization
 #### Model compression
 #### Pedestrian trail
-####
+#### Knowledge distillation
 # note
 https://www.zhihu.com/people/mmeng-xin-80 #detection
