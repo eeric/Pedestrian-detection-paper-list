@@ -10,5 +10,6 @@
 #### Model compression
 #### Pedestrian trail
 #### Knowledge distillation
+#### AdvProp
 # note
 https://www.zhihu.com/people/mmeng-xin-80 #detection
