@@ -1,0 +1,4 @@
+#nanodet/nanodet/model/loss/utils.py 
+    if weight is not None:
+        loss = loss * weight #loss->tensor
+#ohsm
