@@ -1,1 +1,1 @@
-loss = a*loss_t + b*loss_s
+loss = a*loss_t + b*loss_s,  loss_t and loss_s are all Cross Entropy Loss.
