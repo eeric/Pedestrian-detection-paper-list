@@ -1,2 +1,2 @@
 1st: loss = a*loss_t + b*loss_s,  loss_t and loss_s are all Cross Entropy Loss.
-2
+2nd: loss = a*loss_s + b*loss_L1,  loss_s is Cross Entropy Loss, loss_L1 between teacher output with student output by L1 loss.
