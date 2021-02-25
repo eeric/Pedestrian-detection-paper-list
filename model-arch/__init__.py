@@ -1,6 +1,5 @@
 from .gfl import GFL
 from .gfl_t import GFL_t
-from .gfl_bbHOA_incpt_128_96 import GFL_HOA_incpt_128
 
 def build_model(model_cfg):
     if model_cfg.arch.name == 'GFL':
