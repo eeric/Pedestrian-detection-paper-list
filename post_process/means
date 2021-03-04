@@ -1,0 +1,5 @@
+#reg_max
+
+320输入：4*（7+1），reg_max=7
+416输入：4*（10+1），reg_max=10
+reg_max：the max distance from center point to box edge.
