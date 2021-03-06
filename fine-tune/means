@@ -1,3 +1,5 @@
 # ready to pretrain weight
 # load it to retrain in new dataset
-# meanwhile according to original config file
+# meanwhile using original config file
+# old number of classes change to new's
+# however, model structure need not transform
