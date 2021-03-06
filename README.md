@@ -15,3 +15,7 @@
 https://www.zhihu.com/people/mmeng-xin-80 #detection
 #Visualize logs
 ![image](https://github.com/eeric/Pedestrian-detection-paper-list/blob/main/Visualize/11.png)
+### Train loss
+![image](https://github.com/eeric/Pedestrian-detection-paper-list/blob/main/Visualize/12.png)
+### Val coco bbox
+![image](https://github.com/eeric/Pedestrian-detection-paper-list/blob/main/Visualize/13.png)
