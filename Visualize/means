@@ -3,4 +3,4 @@
 TensorBoard logs are saved in save_dir which you set in config file.
 To visualize tensorboard logs, run:
 cd <YOUR_SAVE_DIR>
-tensorboard --logdir ./logs 
+tensorboard --logdir ./logs --bind_all
