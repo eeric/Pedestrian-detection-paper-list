@@ -4,3 +4,5 @@ TensorBoard logs are saved in save_dir which you set in config file.
 To visualize tensorboard logs, run:
 cd <YOUR_SAVE_DIR>
 tensorboard --logdir ./logs --bind_all
+
+![image](https://github.com/eeric/Pedestrian-detection-paper-list/blob/main/Visualize/11.png)
