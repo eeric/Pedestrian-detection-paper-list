@@ -5,4 +5,5 @@
 #path:./nanodet/model/arch
 #file:__init__.py  gfl.py
 #3.input size of model
-#path:./nanodet/data/dataset/coco.py
+#path:./nanodet/data/dataset/
+#file: coco.py
