@@ -1,5 +1,5 @@
 # parameters
-nc: 2  # number of classes
+nc: 80  # number of classes
 depth_multiple: 0.33  # model depth multiple
 width_multiple: 0.50  # layer channel multiple
 
@@ -13,7 +13,7 @@ anchors:
 backbone:
   # [from, number, module, args]
   #[[-1, 1, Focus, [64, 3]],  # 0-P1/2
-  [[-1, 1, Conv, [64, 3, 2]],# 0-P1/2
+  [  #need to modify,         # 0-P1/2
    [-1, 1, Conv, [128, 3, 2]],  # 1-P2/4
    [-1, 3, C3, [128]],
    [-1, 1, Conv, [256, 3, 2]],  # 3-P3/8
@@ -29,13 +29,13 @@ backbone:
 head:
   [[-1, 1, Conv, [512, 1, 1]],
    #[-1, 1, nn.Upsample, [None, 2, 'nearest']],
-   [-1,1,nn.ConvTranspose2d, [256,256,2,2]],
+   #need to modify
    [[-1, 6], 1, Concat, [1]],  # cat backbone P4
    [-1, 3, C3, [512, False]],  # 13
 
    [-1, 1, Conv, [256, 1, 1]],
    #[-1, 1, nn.Upsample, [None, 2, 'nearest']],
-   [-1,1,nn.ConvTranspose2d, [128,128,2,2]],
+   #need to modify
    [[-1, 4], 1, Concat, [1]],  # cat backbone P3
    [-1, 3, C3, [256, False]],  # 17 (P3/8-small)
 
