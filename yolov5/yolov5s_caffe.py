@@ -13,7 +13,7 @@ anchors:
 backbone:
   # [from, number, module, args]
   #[[-1, 1, Focus, [64, 3]],  # 0-P1/2
-   [ #need to modify,         # 0-P1/2
+   #need to modify,         # 0-P1/2
    [-1, 1, Conv, [128, 3, 2]],  # 1-P2/4
    [-1, 3, C3, [128]],
    [-1, 1, Conv, [256, 3, 2]],  # 3-P3/8
