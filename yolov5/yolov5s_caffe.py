@@ -47,5 +47,5 @@ head:
    [[-1, 10], 1, Concat, [1]],  # cat head P5
    [-1, 3, C3, [1024, False]],  # 23 (P5/32-large)
 
-   [[17, 20, 23], 1, Detect, [nc, anchors]],  # Detect(P3, P4, P5) #delete
+   [[17, 20, 23], 1, Detect, [nc, anchors]],  # Detect(P3, P4, P5) #delete and forward of yolo did need to modify.
   ]
