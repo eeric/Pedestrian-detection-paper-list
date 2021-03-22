@@ -1,1 +1,2 @@
 https://github.com/ultralytics/yolov5
+python3 -m torch.distributed.launch --nproc_per_node 2 train.py --data data/coco.yaml --cfg models/simyolov5s.yaml --weights '' --batch-size 8 --epochs 100 --img-size 320 --workers 2
