@@ -2,7 +2,7 @@
 save_dir: workspace/nanodet_G16_416
 model:
   arch:
-    name: GFL_HOA_incpt_96
+    name: GFL
     backbone:
       name: CustomCspNet
       net_cfg: [[ 'Conv', 3, 16, 3, 2],  # 1/2
