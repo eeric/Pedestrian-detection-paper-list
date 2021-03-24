@@ -1,5 +1,5 @@
 #Config File example
-save_dir: workspace/nanodet_G16_416
+save_dir: workspace/nanodet_g_16
 model:
   arch:
     name: GFL
