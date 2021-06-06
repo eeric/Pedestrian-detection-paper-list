@@ -5,4 +5,4 @@ https://arxiv.org/abs/1910.04562
 https://github.com/chufengt/iccv19_attribute
 3.main contribution
 each attribute label correspongding to local image patch by ALM with weak supervision
-4. the means of Pedestrian Attribute Recognition was ineffective
+4. the means of Pedestrian Attribute Recognition was better
