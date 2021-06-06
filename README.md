@@ -9,6 +9,7 @@
 #### Model optimization
 #### Model compression
 #### Pedestrian trail
+#### Pedestrian attribute
 #### Knowledge distillation
 #### AdvProp
 ## note
