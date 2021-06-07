@@ -1,3 +1,7 @@
+1.dataset
 RAP: http://rap.idealtest.org/
+RAP2: http://rap.idealtest.org/
 PETA: http://mmlab.ie.cuhk.edu.hk/projects/PETA.html
 PA-100K: https://github.com/xh-liu/HydraPlus-Net
+2.process
+https://github.com/valencebond/pedestrian-attribute-recognition-pytorch
