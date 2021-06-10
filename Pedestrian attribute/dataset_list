@@ -4,6 +4,6 @@ RAP2: http://rap.idealtest.org/
 PETA: http://mmlab.ie.cuhk.edu.hk/projects/PETA.html
 PA-100K: https://github.com/xh-liu/HydraPlus-Net
 Market-1501: https://github.com/vana77/Market-1501_Attribute
-
+DukeMTMC: https://github.com/vana77/DukeMTMC-attribute # doesn't exist
 2.process
 https://github.com/valencebond/pedestrian-attribute-recognition-pytorch
