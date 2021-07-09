@@ -1,0 +1,2 @@
+1.Knowledge distillation_ A good teacher is patient and consistent
+2.Self-distillation with Batch Knowledge Ensembling Improves ImageNet Classification
