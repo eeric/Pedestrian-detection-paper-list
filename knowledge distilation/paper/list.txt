@@ -1,3 +1,4 @@
 1.Knowledge distillation_ A good teacher is patient and consistent
 2.Self-distillation with Batch Knowledge Ensembling Improves ImageNet Classification
 3.(reviewkd_cvpr2021)Distilling Knowledge via Knowledge Review
+4.(LD loss)Localization Distillation for Object Detection
