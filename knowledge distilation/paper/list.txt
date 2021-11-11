@@ -2,3 +2,7 @@
 2.Self-distillation with Batch Knowledge Ensembling Improves ImageNet Classification
 3.(reviewkd_cvpr2021)Distilling Knowledge via Knowledge Review
 4.(LD loss)Localization Distillation for Object Detection
+5.(LGD) Label-guided Self-distillation for Object Detection-2109.11496
+
+
+
