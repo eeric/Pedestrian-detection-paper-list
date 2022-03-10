@@ -7,3 +7,6 @@
 #3.need to modify input size of model
 #path:./nanodet/data/dataset/
 #file: coco.py
+#4.FGD
+#(FGD)Focal and Global Knowledge Distillation for Detectors
+#https://github.com/yzd-v/FGD
