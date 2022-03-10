@@ -10,3 +10,4 @@
 #4.FGD
 #Focal and Global Knowledge Distillation for Detectors
 #https://github.com/yzd-v/FGD
+#https://github.com/yzd-v/FGD/blob/master/mmdet/distillation/losses/fgd.py
