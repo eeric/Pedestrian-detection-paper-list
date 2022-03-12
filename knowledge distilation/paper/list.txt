@@ -3,7 +3,7 @@
 3.(reviewkd_cvpr2021)Distilling Knowledge via Knowledge Review
 4.(LD loss)Localization Distillation for Object Detection
 5.(LGD) Label-guided Self-distillation for Object Detection-2109.11496
-6.(FGD)Focal and Global Knowledge Distillation for Detectors-2111.11837
+6.(FGD)Focal and Global Knowledge Distillation for Detectors-
 
 
 
