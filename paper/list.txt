@@ -1,5 +1,5 @@
 # paper
-
+(Cross-GPU BN)MegDet-A Large Mini-Batch Object Detector-1711.07240
 
 
 
